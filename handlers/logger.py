@@ -1,6 +1,7 @@
 from pyrogram import filters
 from pyrogram.types import Message
 from pyrogram import Client
+from bot import app
 
 from utils.logging import send_log
 
